@@ -1,0 +1,139 @@
+html {
+    scroll-behavior: smooth;
+}
+
+a.navbar-brand{
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 30px;
+}
+.row{
+    font-family: 'Kanit';
+    margin-top: 50px;
+    padding: 0;
+}
+.container.row.col.banner{
+    left: 0;
+    right: 0;
+    position: absolute;
+    width: 100%;
+}
+.btn-warning {
+    font-family: 'Allerta Stencil', sans-serif;
+    color: #ffffff;
+    background-color: #e2b946;
+    border-color:#e2b946;
+    position: relative;
+    margin-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.navbar-light .navbar-brand {
+    color: rgb(73, 163, 73);
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(113 144 52 / 50%);
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(105, 189, 52);
+}
+.display-4._1{
+    color: rgb(224, 174, 130);
+}
+.display-4._2{
+    margin-top: 20px;
+    color: rgb(224, 174, 130);
+}
+.display-4._3{
+    color: rgb(224, 174, 130);
+}
+.display-5._1{
+    color: rgb(94, 204, 84); 
+}
+.display-4._4{
+    color: rgb(255, 168, 92);
+}
+img.display-5._1{
+    text-align: center;
+}
+.display-5._2{
+    color: rgb(101, 194, 248);
+}
+img.display-5._2{
+    text-align: center;
+}
+.display-5._3{
+    color: rgb(253, 193, 82);
+}
+img.display-5._3{
+    text-align: center;
+}
+p.p-1{
+    color: rgba(46, 46, 46, 0.952);
+    font-size: 20px;
+    border: 0; 
+}
+.p-1 {
+    padding: 0rem!important;
+}
+p.p-2{
+    color: rgba(46, 46, 46, 0.952);
+    font-size: 20px;
+    border: 0;      
+}
+.p-2 {
+    padding: 0rem!important;
+}
+p.p-3{
+    color: rgba(46, 46, 46, 0.952);
+    font-size: 20px;
+    border: 0;  
+}
+.p-3 {
+    padding: 0rem!important;
+}
+h2.display-4._3 {
+    margin-bottom: 0%;
+}
+
+.box1 {
+    text-align: center;
+}
+
+.box2 {
+    margin-top: 30px;
+    margin-left: 30%;
+    text-align: center;
+}
+
+.box2_1 {
+    text-align: center;
+}
+.box3 {
+    margin-top: 30px;
+    margin-left: 62%;
+    text-align: center;
+}
+
+.box3_1 {
+    text-align: center;
+}
+
+.allcontact {
+    margin-top: 90px;
+}
+.contact {
+    font-size: 20px;
+    color: rgba(46, 46, 46, 0.952);
+}
+
+.btn.btn-outline-success {
+    margin-top: 20px;
+    font-size: 30px;
+}
